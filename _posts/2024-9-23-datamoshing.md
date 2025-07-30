@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Dumb Smart Lock"
+title: "Baby's First Datamoshing"
 date: 2024-9-23
 ---
 
