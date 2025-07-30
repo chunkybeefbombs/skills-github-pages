@@ -4,7 +4,7 @@ title: "A Dumb Smart Lock"
 date: 2024-9-23
 ---
 
-## Rambling Preamble
+## Oooh pictures
 
 I had some pictures taken at my friends pool that I thought looked pretty hard.
 I'm talking album cover material. 
