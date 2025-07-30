@@ -6,7 +6,7 @@ date: 2024-7-31
 
 ## Preamble
 
-My girlfriend only has one key to her apartment.
+My girlfriend only has one key to her apartment. (NOTE: no longer girlfriend as of February 2025)
 Sometimes she has to leave for school or work when it would be inconvenient for me to leave at the same time, but I also need in-and-out privileges before she'd get back.
 
 My first thought was to spoof the digital chip inside her key. I thought it'd be easy because I watched a video on copying a magstrip from an old-fashioned swipe pass using a read-write peripheral for mag strips.
